@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/home/ax5bm10/Documentos/Android/Money/.metadata/.plugins/org.eclipse.jdt.core
+3214893103.index
